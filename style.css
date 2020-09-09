@@ -1,0 +1,4 @@
+.js-link-container{
+    display: flex;
+    flex-direction: column;
+}
